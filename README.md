@@ -1,2 +1,2 @@
 # weatherapp
-simple weather app
+ https://nityzt.github.io/weatherapp/
