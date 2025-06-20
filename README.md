@@ -1,2 +1,2 @@
 # weatherapp
-Simple weather app for cities built with html,css and javascript. 
+Simple weather app built with html,css and javascript. 
