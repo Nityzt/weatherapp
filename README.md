@@ -1,2 +1,2 @@
 # weatherapp
- https://nityzt.github.io/weatherapp/
+Simple weather app for cities built with html,css and javascript. 
